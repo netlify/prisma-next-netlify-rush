@@ -1,0 +1,6 @@
+{
+  "node": "14.15.4",
+  "packageManager": "pnpm",
+  "packageManagerVersion": "6.3.0",
+  "storePath": "/Users/abereghici/Development/prisma-next-netlify-rush/common/temp/pnpm-store"
+}
