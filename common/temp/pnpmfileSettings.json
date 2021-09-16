@@ -1,6 +1,0 @@
-{
-  "allPreferredVersions": {},
-  "allowedAlternativeVersions": {},
-  "semverPath": "/usr/local/lib/node_modules/@microsoft/rush/node_modules/semver/index.js",
-  "userPnpmfilePath": "/Users/abereghici/Development/prisma-next-netlify-rush/common/config/rush/.pnpmfile.cjs"
-}
